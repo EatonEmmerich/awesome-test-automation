@@ -184,7 +184,6 @@ Also:
 
 ## Performance & stress & load
 
-* [Multi-Mechanize](http://testutils.org/multi-mechanize/) - An open source framework for performance and load testing.
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool.
 * [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - A py.test fixture for benchmarking code.
